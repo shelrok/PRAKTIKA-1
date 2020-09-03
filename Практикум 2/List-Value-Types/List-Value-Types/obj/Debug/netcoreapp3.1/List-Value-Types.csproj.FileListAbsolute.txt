@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\List-Value-Types\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.exe
+C:\Users\student\source\repos\List-Value-Types\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.deps.json
+C:\Users\student\source\repos\List-Value-Types\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.runtimeconfig.json
+C:\Users\student\source\repos\List-Value-Types\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.runtimeconfig.dev.json
+C:\Users\student\source\repos\List-Value-Types\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.dll
+C:\Users\student\source\repos\List-Value-Types\List-Value-Types\bin\Debug\netcoreapp3.1\List-Value-Types.pdb
+C:\Users\student\source\repos\List-Value-Types\List-Value-Types\obj\Debug\netcoreapp3.1\List-Value-Types.csprojAssemblyReference.cache
+C:\Users\student\source\repos\List-Value-Types\List-Value-Types\obj\Debug\netcoreapp3.1\List-Value-Types.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\List-Value-Types\List-Value-Types\obj\Debug\netcoreapp3.1\List-Value-Types.AssemblyInfo.cs
+C:\Users\student\source\repos\List-Value-Types\List-Value-Types\obj\Debug\netcoreapp3.1\List-Value-Types.dll
+C:\Users\student\source\repos\List-Value-Types\List-Value-Types\obj\Debug\netcoreapp3.1\List-Value-Types.pdb

@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.csprojAssemblyReference.cache
+C:\Users\student\source\repos\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.AssemblyInfo.cs
+C:\Users\student\source\repos\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.exe
+C:\Users\student\source\repos\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.deps.json
+C:\Users\student\source\repos\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.runtimeconfig.json
+C:\Users\student\source\repos\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.runtimeconfig.dev.json
+C:\Users\student\source\repos\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.dll
+C:\Users\student\source\repos\SortString\SortString\bin\Debug\netcoreapp3.1\SortString.pdb
+C:\Users\student\source\repos\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.dll
+C:\Users\student\source\repos\SortString\SortString\obj\Debug\netcoreapp3.1\SortString.pdb
